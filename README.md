@@ -1,6 +1,6 @@
 # Derm AI Scan - React Native Frontend
 
-![Project Banner](assets/logo.png)
+![Project Banner](assets/result2.jpg)
 
 ## Overview
 **Derm AI Scan** is a **Full-Stack application** built to provide instant skin disease analysis using AI, connecting patients directly with doctors.  
@@ -36,7 +36,7 @@ data storage, and AI analysis.
 ![Dashboard](assets/dashboard.png)
 ![Result Screen](assets/result.png)
 
-**Video Demo:** [Watch Here](YOUR_VIDEO_LINK)
+**Video Demo:** [Watch Here](https://jumpshare.com/share/JY7eXb8D9sOAY4tqKWer?b=k9w1y5hfACp0zq5DAStT)
 
 ---
 
