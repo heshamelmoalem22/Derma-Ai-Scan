@@ -35,11 +35,6 @@ data storage, and AI analysis.
 
 ---
 
-## Screenshots / Demo
-![Splash Screen](assets/SplashScreen.png)
-![Dashboard](assets/dashboard.png)
-![Result Screen](assets/result.png)
-
 **Video Demo:** [Watch Here](https://jumpshare.com/share/JY7eXb8D9sOAY4tqKWer?b=k9w1y5hfACp0zq5DAStT)
 
 ---
